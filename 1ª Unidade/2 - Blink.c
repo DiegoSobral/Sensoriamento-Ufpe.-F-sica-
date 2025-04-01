@@ -2,7 +2,7 @@ int led = 13;
 
 void setup() {
 // initialize the digital pin as an output.
-  pinMode(13, OUTPUT);
+  pinMode(led, OUTPUT);
 }
 
 void loop() {
